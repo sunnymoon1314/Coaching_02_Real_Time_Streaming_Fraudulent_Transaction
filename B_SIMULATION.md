@@ -1,4 +1,4 @@
-# 🧑‍🤝‍🧑 Organization Simulation Setup
+## <span id="appendix-a"></span><span style="color:orange">🧑‍🤝‍🧑 Appendix B: Organization Simulation Setup</span> <span style="font-size: 14px; font-weight: normal;">[⬆️ Back to TOC](README.md#toc)</span>
 
 📝 Note: This roleplay is specifically designed for the **Stage 1 (Local Kafka)** architecture, as it provides the most hands-on terminal execution for every participant. If you wish to run the simulation using the **Stage 2 (Cloud)** architecture, see the adaptation guide at the bottom of this document.
 
